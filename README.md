@@ -4,7 +4,7 @@
 
 <h3>👨🏻‍💻 &nbsp;About Me </h3>
 
--  &nbsp; I'm currently working on Front-end Development React Framework
+-  &nbsp; I'm currently working on **Front-end Development React Framework**
 -  &nbsp; Studying Computer Engineering  at University of Istanbul.
 
 
